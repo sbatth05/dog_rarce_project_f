@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dog_rarce_project_f", "dog_rarce_project_f\dog_rarce_project_f.csproj", "{008DA5E1-6510-48C8-8804-BCEEE91014C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dog_rarce_project_fTests", "dog_rarce_project_fTests\dog_rarce_project_fTests.csproj", "{18AF65A0-36A7-4AF6-BAA1-A139C74562FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008DA5E1-6510-48C8-8804-BCEEE91014C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008DA5E1-6510-48C8-8804-BCEEE91014C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008DA5E1-6510-48C8-8804-BCEEE91014C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008DA5E1-6510-48C8-8804-BCEEE91014C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AF65A0-36A7-4AF6-BAA1-A139C74562FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AF65A0-36A7-4AF6-BAA1-A139C74562FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AF65A0-36A7-4AF6-BAA1-A139C74562FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AF65A0-36A7-4AF6-BAA1-A139C74562FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6D8AF4-4BDB-425A-9182-6AB638A37BBE}
+	EndGlobalSection
+EndGlobal

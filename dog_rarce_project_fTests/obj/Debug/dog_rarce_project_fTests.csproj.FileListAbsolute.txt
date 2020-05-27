@@ -1,0 +1,11 @@
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\bin\Debug\dog_rarce_project_fTests.dll
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\bin\Debug\dog_rarce_project_fTests.pdb
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\bin\Debug\dog_rarce_project_f.exe
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\bin\Debug\dog_rarce_project_f.pdb
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\bin\Debug\dog_rarce_project_f.exe.config
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\obj\Debug\dog_rarce_project_fTests.csprojAssemblyReference.cache
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\obj\Debug\dog_rarce_project_fTests.csproj.CoreCompileInputs.cache
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\obj\Debug\dog_rarce_project_fTests.csproj.CopyComplete
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\obj\Debug\dog_rarce_project_fTests.dll
+D:\aPRL-mAY\dog_rarce_project_f\dog_rarce_project_fTests\obj\Debug\dog_rarce_project_fTests.pdb
